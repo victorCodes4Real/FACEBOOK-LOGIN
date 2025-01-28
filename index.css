@@ -24,6 +24,7 @@ body {
     top: 13vh;
     margin-right: 30vw;
     font-size: 30px;
+    margin-bottom: 50px;
 }
 
 #facebook{
@@ -37,15 +38,15 @@ body {
      font-weight: normal;
      line-height: 32px;
      margin-top: 20px;
-     margin-bottom: 5px;
+     margin-bottom: 20px;
 }
 
 #recent-logins > #subtitle {
 color: #606770;
 font-size: 15px;
 line-height: 15px;
-margin-bottom: 20px;
 font-weight: 400;
+margin-bottom: 30px;
 }
 
 #cards{
@@ -147,6 +148,7 @@ font-size: 12px;
     width: 20px;
     background-color: rgb(63, 62, 62);
     opacity: 0.5;
+    font-size: 15px;
 }
 
 #card-1:hover #cancel {
